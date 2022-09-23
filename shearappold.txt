@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+changes
+new changes
+=======
+
+
 Make a change
 
 New words
+>>>>>>> main
